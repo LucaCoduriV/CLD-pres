@@ -44,3 +44,5 @@ Quickstart: https://cloud.google.com/functions/docs/create-deploy-gcloud?hl=fr
 # Surveiller les fonctions https://cloud.google.com/functions/docs/monitoring?hl=fr
 
 https://codelabs.developers.google.com/codelabs/local-development-with-cloud-functions#5
+
+https://cloud.google.com/functions/docs/writing/http?hl=fr
